@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a3243b-7007-41fe-aafb-a20f9293988e" name="oui" comment="" />
+    <list id="ebbb8643-282b-4999-93c5-58975de87f77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\programme\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jDrH37gcQSMAlNq2PPaskTZ6oN" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExemplesMoodleXML_Vladadamm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <branch name="master" repository="P:\M1\GECO\ExemplesMoodleXML" />
+      <changelist id="ebbb8643-282b-4999-93c5-58975de87f77" name="Default Changelist" comment="" />
+      <created>1603349411493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603349689660</updated>
+      <workItem from="1603349412814" duration="273000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="oui">
+      <branch name="master" repository="P:\M1\GECO\ExemplesMoodleXML" original="true" />
+      <branch name="oui" repository="P:\M1\GECO\ExemplesMoodleXML" />
+      <changelist id="77a3243b-7007-41fe-aafb-a20f9293988e" name="oui" comment="" />
+      <created>1603349681618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603349689660</updated>
+      <workItem from="1603349690089" duration="711000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="gogonouze" />
+        <option name="repoName" value="ExemplesMoodleXML" />
+      </GitHub>
+    </servers>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="153" key="#Servers" timestamp="1603349553160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="476" y="153" key="#Servers/0.0.1536.834@0.0.1536.834" timestamp="1603349553160" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603349795226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1603349795226" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603350400679">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603350400679" />
+    <state x="482" y="248" key="SimpleOpenTaskDialog" timestamp="1603349689738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="482" y="248" key="SimpleOpenTaskDialog/0.0.1536.834@0.0.1536.834" timestamp="1603349689738" />
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603349602218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="586" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1603349602218" />
+  </component>
+</project>

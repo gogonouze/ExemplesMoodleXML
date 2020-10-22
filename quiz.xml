@@ -12,10 +12,10 @@
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
 			<text>Bravo !</text>
-		</feedback>
+		</feedback>dab
 	</answer>
 	<answer fraction="0">
-		<text>Une mauvaise réponse</text>
+		<text>Une mauvaise réponse</text>dab
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>

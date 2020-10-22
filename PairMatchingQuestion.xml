@@ -3,7 +3,7 @@
 	<name>
 		<text>Demo question d'appariement</text>
 	</name>
-	<questiontext format="html">
+	<questiontext format="html">vccv
 		<text>Quel est la bonne réponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
